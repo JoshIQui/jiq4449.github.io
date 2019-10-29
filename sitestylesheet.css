@@ -1,0 +1,13 @@
+#wrapper{
+    background-color: lightskyblue;
+}
+.h1{
+    font-size: 30px;
+}
+.image{
+    float: left;
+    border-color: black;
+}
+.a{
+    color: blue;
+}
